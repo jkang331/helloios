@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>312D65B7-C2B3-466F-A88E-C158F0D88666</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>helloios</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>8C90B21920D0ED854056A220761E49C92BA8E293</key>
 		<string>https://github.com/jkang331/helloios.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>helloios/helloios.xcodeproj/project.xcworkspace</string>
+	<string>helloios/helloios.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>8C90B21920D0ED854056A220761E49C92BA8E293</key>
